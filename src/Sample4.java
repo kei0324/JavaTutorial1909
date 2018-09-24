@@ -10,6 +10,8 @@ public class Sample4 {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		
+		// テストで追加
+		
 		// ファイルの読み込みにチャレンジ
 		// 参考にしたサイトはここ
 		// https://www.sejuku.net/blog/20924
